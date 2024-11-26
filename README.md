@@ -1,8 +1,11 @@
-# React + Vite
+Project Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+11/26/2024
+## Navbar Component
 
-Currently, two official plugins are available:
+The `Navbar` component is a responsive navigation bar for the portfolio website. It uses React's `useState` to toggle the mobile menu between open and closed states. The navbar is fixed at the top of the page with a semi-transparent black background. It includes a logo ("Jordan") that links to the homepage and a button for toggling the mobile menu. The menu icon switches between a hamburger icon and a close icon based on the state.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features:
+- Mobile-responsive with a toggle menu.
+- Fixed at the top of the page.
+- Simple styling with Tailwind CSS.
