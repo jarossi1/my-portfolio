@@ -9,3 +9,12 @@ The `Navbar` component is a responsive navigation bar for the portfolio website.
 - Mobile-responsive with a toggle menu.
 - Fixed at the top of the page.
 - Simple styling with Tailwind CSS.
+---
+11/27/24
+### Changes:
+- Added Navbar component to the project.
+- Implemented toggle functionality using React's useState.
+- Styled the navbar with Tailwind CSS.
+- Added navigation links and logo to the navbar.
+- Created `index.js file` to import and export the Navbar component.
+---
